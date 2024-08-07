@@ -1,0 +1,12 @@
+Uri: https://hamsterkey-bike.netlify.app/
+File Name: C:\Downloaded Web Sites\hamsterkey-bike.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://hamsterkey-bike.netlify.app/asset/script.js
+File Name: C:\Downloaded Web Sites\hamsterkey-bike.netlify.app\asset\script-1.js
+Content Type: application/javascript
+
+Uri: https://hamsterkey-bike.netlify.app/asset/style.css
+File Name: C:\Downloaded Web Sites\hamsterkey-bike.netlify.app\asset\style-1.css
+Content Type: text/css
+
